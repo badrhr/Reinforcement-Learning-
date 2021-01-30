@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 30 02:27:27 2021
 
-@author: Administrator
-"""
 
 import random
 import gym
