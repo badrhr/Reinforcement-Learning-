@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jan 30 02:26:10 2021
-
-@author: Administrator
+You can use a simple DNN
 """
 
  
