@@ -1,4 +1,3 @@
-
 import os
 import random
 import gym
@@ -229,4 +228,5 @@ if __name__ == "__main__":
     env_name = 'CartPole-v1'
     agent = DQNAgent(env_name)
     agent.run()
-    #agent.test()
+    
+agent.test()
