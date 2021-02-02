@@ -3,22 +3,22 @@
 
 **Requirement: **
 
-numpy
+	numpy
 
-scipy
+	scipy
 
-tensorflow==2.3.1
+	tensorflow==2.3.1
 
-tensorflow-gpu==2.3.1
+	tensorflow-gpu==2.3.1
 
-opencv-python
+	opencv-python
 
-matplotlib
+	matplotlib
 
-tensorboardx
+	tensorboardx
 
-pandas
+	pandas
 
-gym[all]
+	gym[all]
 
-box2d-py
+	box2d-py
